@@ -1,0 +1,24 @@
+.borderRed {
+    border: 1px dashed red;
+}
+
+.borderGreen {
+    border: 1px dashed green;
+}
+
+.borderBlue {
+    border: 1px dashed blue;
+}
+
+.borderYellow {
+    border: 1px dashed yellow;
+}
+
+body {
+    margin: 0;
+}
+
+.dataBlock {
+    width: 70%;
+    margin: auto;
+}
