@@ -10,15 +10,19 @@
     border: 1px dashed blue;
 }
 
-.borderYellow {
-    border: 1px dashed yellow;
+.borderCyan {
+    border: 1px dashed darkcyan;
 }
 
 body {
     margin: 0;
 }
 
-.dataBlock {
-    width: 70%;
-    margin: auto;
-}
+/* .row {
+    width: 100%;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+} */
